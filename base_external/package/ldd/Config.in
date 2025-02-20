@@ -1,0 +1,6 @@
+
+config BR2_PACKAGE_LDD
+	bool "LDD"
+	help
+	  INCLUDES THE LDD STUFF FOR ASSIGNMENT 7.
+	  Used to understand buildroot external trees and package builds.
